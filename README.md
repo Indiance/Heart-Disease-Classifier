@@ -6,10 +6,11 @@ disease as a binary classifier
 
 ## My Journey:
 
-### First Model of Choice The first model I decided to use was logistic
-regression, as it was the simplest model to base my classifier on. It predicts
-the probability of a given event happening given a number of variables. Looking
-at the dataset this was a good place to start.
+### First Model of Choice
+The first model I decided to use was logistic regression, as it was the simplest 
+model to base my classifier on. It predicts the probability of a given event 
+happening given a number of variables. Looking at the dataset this was a good 
+place to start.
 
 Once I constructed and fitted a vanilla regression model without any
 optimization, this yielded an accuracy of 81.63%, with a F1 score of 83.83%. 
